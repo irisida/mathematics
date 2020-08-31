@@ -33,3 +33,16 @@
 - Multiplying & dividing mixed numbers
 - Relationships of numbers
 - Adding mixed measures
+
+## Decimals
+
+- Place value
+- Decimal arithmetic
+- Repeating decimals
+- Rounding
+
+## Ratio & Proportion
+
+- Ration and Proportion
+- Unit Price
+- Unit multipliers
