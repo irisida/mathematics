@@ -46,3 +46,10 @@
 - Ration and Proportion
 - Unit Price
 - Unit multipliers
+
+## Exponents
+
+- 8.01 Exponents
+- 8.02 Rules of Exponents
+- 8.03 Power rule of Exponents
+- 8.04 Quotient rule for Exponents
