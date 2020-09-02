@@ -53,3 +53,10 @@
 - 8.02 Rules of Exponents
 - 8.03 Power rule of Exponents
 - 8.04 Quotient rule for Exponents
+
+## Radicals
+
+- 9.01 Radicals
+- 9.02 Adding & Subtracting radicals
+- 9.03 Multiplying & Dividing radicals
+- 9.04 Radical expressions
