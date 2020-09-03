@@ -1,30 +1,21 @@
-![mathematics](https://www.wuwm.com/sites/wuwm/files/styles/medium/public/202003/AdobeStock_200118749.jpeg)
-
 # Mathematics
 
-### Part One
-- [Number system fundamentals](https://github.com/irisida/math_notes/tree/master/fundamentals)
+A repository of mathematics course notes, examples, rulings and scatterings of python code to demonstate the concepts programatically.
 
-### Part Two
-- Algebra
+- 001 : [Number system fundamentals](https://github.com/irisida/math_notes/tree/master/fundamentals)
 
-### Part THree
-- Geometry
+- 002 : Algebra
 
-### Part Four
-- Trigonometry/Precalculus
+- 003 : Geometry
 
-### Part Five
-- Probability/Statistics
+- 004 : Trigonometry/Precalculus
 
-### Part Six
-- Calculus 1
+- 005 : Probability/Statistics
 
-### Part Seven
-- Calculus 2
+- 006 : Calculus 1
 
-### Part Eight
-- Calculus 3
+- 007 : Calculus 2
 
-### Part Nine
-- Linear Algebra
+- 008 : Calculus 3
+
+- 009 : Linear Algebra
