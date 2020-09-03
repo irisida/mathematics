@@ -4,7 +4,7 @@ A repository of mathematics course notes, examples, rulings and scatterings of p
 
 - 001 : [Number system fundamentals](https://github.com/irisida/math_notes/tree/master/fundamentals)
 
-- 002 : Algebra
+- 002 : [Algebra](https://github.com/irisida/mathematics/tree/master/algebra)
 
 - 003 : Geometry
 
